@@ -16,7 +16,7 @@ body{
 
 /* ################# HEADER STYLING ################ */
 header{
-  background: url(../imgs/headbg.jpg);
+  background: url(headbg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; 
